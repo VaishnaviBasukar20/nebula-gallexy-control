@@ -1,0 +1,8 @@
+{
+  "name": "Nebula Hand Control",
+  "description": "Control a galaxy simulation with hand gestures and analyze it with Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
